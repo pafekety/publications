@@ -7,11 +7,9 @@
 
 
 ## 2022  
-Mauro, F., Monleon, V.J., Gray, A.N., Kuegler, O., Temesgen, H., Hudak, A.T., **Fekety, P.A.** and Yang, Z., 2022. Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), p.6024.
+Mauro, F., Monleon, V.J., Gray, A.N., Kuegler, O., Temesgen, H., Hudak, A.T., **Fekety, P.A.** and Yang, Z., 2022. Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), p.6024. [https://doi.org/10.3390/rs14236024](https://doi.org/10.3390/rs14236024)
 
 Duncanson, L., Kellner, J. R., Armston, J., Dubayah, R., Minor, D. M., Hancock, S., Healey, S. et al [including **Fekety, P.**]. (2022). Aboveground biomass density models for NASA’s Global Ecosystem Dynamics Investigation (GEDI) lidar mission. Remote Sensing of Environment, 270, 112845. https://doi.org/10.1016/j.rse.2021.112845 
-
-Mauro, F., Monleon, V. J., Gray, A. N., Kuegler, O., Temesgen, H., Hudak, A. T., **Fekety, P. A.**, & Yang, Z. (2022). Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), Article 23. https://doi.org/10.3390/rs14236024 
 
 Wei, L., Zhou, H., Hudak, A. T., Link, T. E., Marshall, A., Kavanagh, K. L., Abatzoglou, J. T., Jain, T. B., Byrne, J. C., Denner, R., **Fekety, P. A.**, Sandquist, J., Yu, X., & Marshall, J. D. (2022). White pine blister rust, logging, and species replacement increased streamflow in a montane watershed in the northern Rockies, USA. Journal of Hydrology, 612, 128230. https://doi.org/10.1016/j.jhydrol.2022.128230 
 
