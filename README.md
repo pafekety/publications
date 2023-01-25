@@ -50,12 +50,12 @@ Vogeler, J. C., Slesak, R. A., **Fekety, P. A.**, & Falkowski, M. J. (2020). Cha
 # Archived Spatial Data Products 
 
 ## 2020  
-**Fekety, P.A.**, and A.T. Hudak. 2020. Field observations for “A carbon monitoring system for mapping regional, annual aboveground biomass across the northwestern USA”. Forest Service Research Data Archive Fort Collins, CO. [https://doi.org/10.2737/RDS-2020-0026](https://doi.org/10.2737/RDS-2020-0026) 
+**Fekety, P. A.**, and A. T. Hudak. 2020. Field observations for “A carbon monitoring system for mapping regional, annual aboveground biomass across the northwestern USA”. Forest Service Research Data Archive Fort Collins, CO. [https://doi.org/10.2737/RDS-2020-0026](https://doi.org/10.2737/RDS-2020-0026) 
   
-Filippelli, S.K., M.J. Falkowski, A.T. Hudak, and **P.A. Fekety**. 2020. Carbon Monitoring System: Pinyon-Juniper Forest Live Aboveground Biomass, Great Basin, USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1755](https://doi.org/10.3334/ORNLDAAC/1755) 
+Filippelli, S. K., M. J. Falkowski, A. T. Hudak, and **P. A. Fekety**. 2020. Carbon Monitoring System: Pinyon-Juniper Forest Live Aboveground Biomass, Great Basin, USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1755](https://doi.org/10.3334/ORNLDAAC/1755) 
   
-**Fekety, P.A.**, and A.T. Hudak. 2020. LiDAR Derived Forest Aboveground Biomass Maps, Northwestern USA, 2002-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1766](https://doi.org/10.3334/ORNLDAAC/1766) 
+**Fekety, P. A.**, and A. T. Hudak. 2020. LiDAR Derived Forest Aboveground Biomass Maps, Northwestern USA, 2002-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1766](https://doi.org/10.3334/ORNLDAAC/1766) 
   
 ## 2019  
-**Fekety, P.A.**, and A.T. Hudak. 2019. Annual Aboveground Biomass Maps for Forests in the Northwestern USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1719](https://doi.org/10.3334/ORNLDAAC/1719) 
+**Fekety, P. A.**, and A. T. Hudak. 2019. Annual Aboveground Biomass Maps for Forests in the Northwestern USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1719](https://doi.org/10.3334/ORNLDAAC/1719) 
 
