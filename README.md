@@ -6,6 +6,9 @@
 # Peer Reviewed Articles
 
 
+## 2023
+Vogeler, J.C., **Fekety, P.A.**, Elliott, L., Swayze, N.C., Filippelli, S.K., Barry, B., Holbrook, J.D., and Vierling, K.T. 2023. Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat. Frontiers in Remote Sensing, 4, 1196554. [https://doi.org/10.3389/frsen.2023.1196554](https://doi.org/10.3389/frsen.2023.1196554)
+
 ## 2022  
 Mauro, F., Monleon, V.J., Gray, A.N., Kuegler, O., Temesgen, H., Hudak, A.T., **Fekety, P.A.** and Yang, Z., 2022. Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), p.6024. [https://doi.org/10.3390/rs14236024](https://doi.org/10.3390/rs14236024)
 
