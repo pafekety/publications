@@ -7,7 +7,7 @@
 
 
 ## 2024
-Olson, L. E., Sauder, J. D., **Fekety, P. A.**, Golding, J. D., Lewis, C. W., Sadak, R. B., and Schwartz, M. K. (2024) Fishers (Pekania pennanti) are forest structure specialists when resting and generalists when moving: behavior influences resource selection in a northern Rocky Mountain fisher population. Movement Ecology, 12, 49. https://doi.org/10.1186/s40462-024-00487-5 [https://doi.org/10.1186/s40462-024-00487-5](https://doi.org/10.1186/s40462-024-00487-5)
+Olson, L. E., Sauder, J. D., **Fekety, P. A.**, Golding, J. D., Lewis, C. W., Sadak, R. B., and Schwartz, M. K. (2024) Fishers (Pekania pennanti) are forest structure specialists when resting and generalists when moving: behavior influences resource selection in a northern Rocky Mountain fisher population. Movement Ecology, 12, 49. [https://doi.org/10.1186/s40462-024-00487-5](https://doi.org/10.1186/s40462-024-00487-5)
 
 Cardenas-Ritzert, O. S. E, Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M. Automated Geospatial Approach for Assessing SDG Indicator 11.3.1: A Multi-Level Evaluation of Urban Land Use Expansion across Africa (2024). International Journal of Geo-Information.  13(7), 226. [https://doi.org/10.3390/ijgi13070226](https://doi.org/10.3390/ijgi13070226)
 
