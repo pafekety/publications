@@ -7,21 +7,23 @@
 
 
 ## 2024
+Cardenas-Ritzert, O. S. E., Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M. (2024). Effects of Land Use Data Spatial Resolution on SDG Indicator 11.3.1 (Urban Expansion) Assessments: A Case Study Across Ethiopia. Sustainability 16, 9698. [https://doi.org/10.3390/su16229698](https://doi.org/10.3390/su16229698).
+
 Neuenschwander, A., Duncanson, L., Montesano, P., Minor, D., Guenther, E., Hancock, S., Wulder, M. A., White, J. C., Purslow, M., Thomas, N., Mandel, A., Feng, T., Armston, J., Kellner, J.R., Andersen, H. E., Boschetti, L., **Fekety, P.**, Hudak,  A., Pisek,  J., Sánchez-López, N., and Stereńczak, K. (2024). Towards global spaceborne lidar biomass: Developing and applying boreal forest biomass models for ICESat-2 laser altimetry data.  Science of Remote Sensing, 10, 100150. [https://doi.org/10.1016/j.srs.2024.100119](https://doi.org/10.1016/j.srs.2024.100150).
 
 Olson, L. E., Sauder, J. D., **Fekety, P. A.**, Golding, J. D., Lewis, C. W., Sadak, R. B., and Schwartz, M. K. (2024). Fishers (Pekania pennanti) are forest structure specialists when resting and generalists when moving: behavior influences resource selection in a northern Rocky Mountain fisher population. Movement Ecology, 12, 49. [https://doi.org/10.1186/s40462-024-00487-5](https://doi.org/10.1186/s40462-024-00487-5)
 
-Cardenas-Ritzert, O. S. E, Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M. Automated Geospatial Approach for Assessing SDG Indicator 11.3.1: A Multi-Level Evaluation of Urban Land Use Expansion across Africa (2024). International Journal of Geo-Information, 13(7), 226. [https://doi.org/10.3390/ijgi13070226](https://doi.org/10.3390/ijgi13070226)
+Cardenas-Ritzert, O. S. E, Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M.  (2024). Automated Geospatial Approach for Assessing SDG Indicator 11.3.1: A Multi-Level Evaluation of Urban Land Use Expansion across Africa. International Journal of Geo-Information, 13(7), 226. [https://doi.org/10.3390/ijgi13070226](https://doi.org/10.3390/ijgi13070226).
 
 Eastburn, J. F., Campbell, M. J., Dennison, P. E., Anderegg, W. R .L., Barrett, K. J., **Fekety, P. A.**, Flake, S. W., Huffman, D. W., Kannenberg, S. A., Kerr, K. L, Sánchez Meador, A. J., and Vogeler, J. C. (2024). Ecological and climatic transferability of airborne lidar-driven aboveground biomass models in Piñon-Juniper woodlands. GIScience & Remote Sensing, 61(1). [https://doi.org/10.1080/15481603.2024.2363577](https://doi.org/10.1080/15481603.2024.2363577).
 
-S. K. Filippelli, K. Schleeweis, M. D. Nelson, **P. A. Fekety**, and J. C. Vogeler. 2024. Testing temporal transferability of remote sensing models for large area monitoring. Science of Remote Sensing, 9, 100119, [https://doi.org/10.1016/j.srs.2024.100119](https://doi.org/10.1016/j.srs.2024.100119).
+Filippelli, S. K., Schleeweis, K., Nelson, M. D., **Fekety, P. A.**, and Vogeler, J. C. (2024). Testing temporal transferability of remote sensing models for large area monitoring. Science of Remote Sensing, 9, 100119, [https://doi.org/10.1016/j.srs.2024.100119](https://doi.org/10.1016/j.srs.2024.100119).
 
 ## 2023
-Vogeler, J. C., **Fekety, P. A.**, Elliott, L., Swayze, N. C., Filippelli, S. K., Barry, B., Holbrook, J. D., and Vierling, K. T. 2023. Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat. Frontiers in Remote Sensing, 4, 1196554. [https://doi.org/10.3389/frsen.2023.1196554](https://doi.org/10.3389/frsen.2023.1196554)
+Vogeler, J. C., **Fekety, P. A.**, Elliott, L., Swayze, N. C., Filippelli, S. K., Barry, B., Holbrook, J. D., and Vierling, K. T. (2023). Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat. Frontiers in Remote Sensing, 4, 1196554. [https://doi.org/10.3389/frsen.2023.1196554](https://doi.org/10.3389/frsen.2023.1196554)
 
 ## 2022  
-Mauro, F., Monleon, V. J., Gray, A. N., Kuegler, O., Temesgen, H., Hudak, A. T., **Fekety, P. A.** and Yang, Z., 2022. Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), p.6024. [https://doi.org/10.3390/rs14236024](https://doi.org/10.3390/rs14236024)
+Mauro, F., Monleon, V. J., Gray, A. N., Kuegler, O., Temesgen, H., Hudak, A. T., **Fekety, P. A.** and Yang, Z. (2022). Comparison of Model-Assisted Endogenous Poststratification Methods for Estimation of Above-Ground Biomass Change in Oregon, USA. Remote Sensing, 14(23), p.6024. [https://doi.org/10.3390/rs14236024](https://doi.org/10.3390/rs14236024)
 
 Duncanson, L., Kellner, J. R., Armston, J., Dubayah, R., Minor, D. M., Hancock, S., Healey, S. et al [including **Fekety, P.**]. (2022). Aboveground biomass density models for NASA’s Global Ecosystem Dynamics Investigation (GEDI) lidar mission. Remote Sensing of Environment, 270, 112845. [https://doi.org/10.1016/j.rse.2021.112845](https://doi.org/10.1016/j.rse.2021.112845)
 
