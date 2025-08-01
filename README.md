@@ -6,6 +6,9 @@
 # Peer Reviewed Articles
 
 
+## 2025
+**Fekety, P. A.**, Vogeler, J. C., Filippelli, S. K., and Nelson, M. D. (2025). Forest disturbance attribution and sensitivity to harvest detection with Landsat in the Greak Lakes region, USA. Forest Ecology and Management, 595, p.123039. [https://doi.org/10.1016/j.foreco.2025.123039](https://doi.org/10.1016/j.foreco.2025.123039)
+
 ## 2024
 Cardenas-Ritzert, O. S. E., Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M. (2024). Effects of Land Use Data Spatial Resolution on SDG Indicator 11.3.1 (Urban Expansion) Assessments: A Case Study Across Ethiopia. Sustainability 16, 9698. [https://doi.org/10.3390/su16229698](https://doi.org/10.3390/su16229698).
 
@@ -64,6 +67,9 @@ Vogeler, J. C., Slesak, R. A., **Fekety, P. A.**, and Falkowski, M. J. (2020). C
 
  
 # Archived Spatial Data Products 
+## 2025 
+**Fekety, P. A.**, J. C. Vogeler, S. K. Filippelli, and M. D. Nelson. 2025. Forest disturbances in the Great Lakes region, 1986-2019. Fort Collins, CO: Forest Service Research Data Archive. [https://doi.org/10.2737/RDS-2025-0020](https://doi.org/10.2737/RDS-2025-0020)
+
 ## 2024
 Filippelli, S. K., K. G. Schleeweis, M. D. Nelson, **P. A. Fekety,**, and J. C. Vogeler. 2024. Tree canopy cover in the Great Lakes region, 1985-2019. Fort Collins, CO: Forest Service Research Data Archive. [https://doi.org/10.2737/RDS-2023-0043](https://doi.org/10.2737/RDS-2023-0043)
 
