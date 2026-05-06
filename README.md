@@ -6,8 +6,13 @@
 # Peer Reviewed Articles
 
 
+## 2026
+Filippelli, S.K., Vogeler, J.C., Mauro, F., Coetsee, C., Fekety, **P.A.**, McHale, M., and Bunn, D. (2026). Tracking savanna vegetation structure in South Africa by extension of GEDI canopy metrics with Landsat, Sentinel-2, and PALSAR. Science of Remote Sensing 13: 100388. [https://doi.org/10.1016/j.srs.2026.100388](https://doi.org/10.1016/j.srs.2026.100388).
+
 ## 2025
-**Fekety, P. A.**, Vogeler, J. C., Filippelli, S. K., and Nelson, M. D. (2025). Forest disturbance attribution and sensitivity to harvest detection with Landsat in the Greak Lakes region, USA. Forest Ecology and Management, 595, p.123039. [https://doi.org/10.1016/j.foreco.2025.123039](https://doi.org/10.1016/j.foreco.2025.123039)
+**Fekety, P. A.**, Vogeler, J. C., Filippelli, S. K., and Nelson, M. D. (2025). Forest disturbance attribution and sensitivity to harvest detection with Landsat in the Great Lakes region, USA. Forest Ecology and Management, 595, p.123039. [https://doi.org/10.1016/j.foreco.2025.123039](https://doi.org/10.1016/j.foreco.2025.123039)
+
+Mauro, F., González-Mesquida, J.B., Gomez-Roux, M., Domingo-Ruiz, D., Gómez, C., Caiza-Morales, L., Rodríguez-Puerta, F., Águeda, B., Frank, B., Filippelli, S., Hudak, A.T., Temesgen, H., **Fekety, P.A.**, Manzanera, J.A., and Candel-Pérez, D. (2025). Combining multitemporal remote sensing data and repeated ground observations from the Spanish National Forest Inventory to estimate site index and diameter distribution for uneven-aged management of Juniperus thurifera L. forests. Forestry: An International Journal of Forest Research: cpaf080. [https://doi.org/10.1093/forestry/cpaf080](https://doi.org/10.1093/forestry/cpaf080).
 
 ## 2024
 Cardenas-Ritzert, O. S. E., Vogeler, J. C., Shah Heydari, S., **Fekety, P. A.**, Laituri, M., and McHale, M. (2024). Effects of Land Use Data Spatial Resolution on SDG Indicator 11.3.1 (Urban Expansion) Assessments: A Case Study Across Ethiopia. Sustainability 16, 9698. [https://doi.org/10.3390/su16229698](https://doi.org/10.3390/su16229698).
@@ -70,21 +75,26 @@ Vogeler, J. C., Slesak, R. A., **Fekety, P. A.**, and Falkowski, M. J. (2020). C
 ## 2025 
 **Fekety, P. A.**, J. C. Vogeler, S. K. Filippelli, and M. D. Nelson. 2025. Forest disturbances in the Great Lakes region, 1986-2019. Fort Collins, CO: Forest Service Research Data Archive. [https://doi.org/10.2737/RDS-2025-0020](https://doi.org/10.2737/RDS-2025-0020)
 
+Duncanson, L., Montesano, P.M., Zarringhalam, A., Neuenschwander, A., Armston, J., Feng, T., Guenther, E., Hancock, S., Healey, S.P., Kellner, J.R., Leitold, V., Mandel, A., Minor, D., Purslow, M., Saarela, S., Shah, S., Silva, C.E., Thomas, N., White, J.C., Wulder, M.A., Andersen, H.E., Boschetti, L., **Fekety, P.A.**, Hudak, A.T., Sterenczak, K., Sanchez-Lopez, N., and Wallerman, J. 2025, January 1. Arctic-Boreal Vulnerability Experiment (ABoVE) Circumpolar Boreal Forest Aboveground Biomass Density, V3. ORNL Distributed Active Archive Center. [https://doi.org/10.3334/ORNLDAAC/2437](https://doi.org/10.3334/ORNLDAAC/2437).
+
+**Fekety, P.A.**, Hudak, A.T., and Bright, B.C. (2025). Carbon Monitoring System (CMS) LiDAR-derived Forest Aboveground Biomass Maps, Northwestern USA, 2002-2016, V2. ORNL Distributed Active Archive Center. [https://doi.org/10.3334/ORNLDAAC/2443](https://doi.org/10.3334/ORNLDAAC/2443).
+
+
 ## 2024
-Filippelli, S. K., K. G. Schleeweis, M. D. Nelson, **P. A. Fekety,**, and J. C. Vogeler. 2024. Tree canopy cover in the Great Lakes region, 1985-2019. Fort Collins, CO: Forest Service Research Data Archive. [https://doi.org/10.2737/RDS-2023-0043](https://doi.org/10.2737/RDS-2023-0043)
+Filippelli, S. K., K. G. Schleeweis, M. D. Nelson, **P. A. Fekety,**, and J. C. Vogeler. (2024). Tree canopy cover in the Great Lakes region, 1985-2019. Fort Collins, CO: Forest Service Research Data Archive. [https://doi.org/10.2737/RDS-2023-0043](https://doi.org/10.2737/RDS-2023-0043)
 
 ## 2023
-Vogeler, J., **P. A. Fekety**, and K. Vierling. 2023. Gridded GEDI-Fusion Forest Structure Metrics across Six Western US States, 2016-2020. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/2236](https://doi.org/10.3334/ORNLDAAC/2236)
+Vogeler, J., **P. A. Fekety**, and K. Vierling. (2023). Gridded GEDI-Fusion Forest Structure Metrics across Six Western US States, 2016-2020. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/2236](https://doi.org/10.3334/ORNLDAAC/2236)
 
 ## 2020  
-**Fekety, P. A.**, and A. T. Hudak. 2020. Field observations for “A carbon monitoring system for mapping regional, annual aboveground biomass across the northwestern USA”. Forest Service Research Data Archive Fort Collins, CO. [https://doi.org/10.2737/RDS-2020-0026](https://doi.org/10.2737/RDS-2020-0026) 
+**Fekety, P. A.**, and A. T. Hudak. (2020). Field observations for “A carbon monitoring system for mapping regional, annual aboveground biomass across the northwestern USA”. Forest Service Research Data Archive Fort Collins, CO. [https://doi.org/10.2737/RDS-2020-0026](https://doi.org/10.2737/RDS-2020-0026) 
   
-Filippelli, S. K., M. J. Falkowski, A. T. Hudak, and **P. A. Fekety**. 2020. Carbon Monitoring System: Pinyon-Juniper Forest Live Aboveground Biomass, Great Basin, USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1755](https://doi.org/10.3334/ORNLDAAC/1755) 
+Filippelli, S. K., M. J. Falkowski, A. T. Hudak, and **P. A. Fekety**. (2020). Carbon Monitoring System: Pinyon-Juniper Forest Live Aboveground Biomass, Great Basin, USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1755](https://doi.org/10.3334/ORNLDAAC/1755) 
   
-**Fekety, P. A.**, and A. T. Hudak. 2020. LiDAR Derived Forest Aboveground Biomass Maps, Northwestern USA, 2002-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1766](https://doi.org/10.3334/ORNLDAAC/1766) 
+**Fekety, P. A.**, and A. T. Hudak. (2020). LiDAR Derived Forest Aboveground Biomass Maps, Northwestern USA, 2002-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1766](https://doi.org/10.3334/ORNLDAAC/1766) 
   
 ## 2019  
-**Fekety, P. A.**, and A. T. Hudak. 2019. Annual Aboveground Biomass Maps for Forests in the Northwestern USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1719](https://doi.org/10.3334/ORNLDAAC/1719) 
+**Fekety, P. A.**, and A. T. Hudak. (2019). Annual Aboveground Biomass Maps for Forests in the Northwestern USA, 2000-2016. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1719](https://doi.org/10.3334/ORNLDAAC/1719) 
 
 
 # Misc.
