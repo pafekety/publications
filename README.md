@@ -7,6 +7,10 @@
 
 
 ## 2026
+Hudak, A.T., Bakken, J.L., Lister, A., Mauro, F., Gregory, M.J., Riley, K., Wilson, B., Santoro, M., Healey, S., Ma, L., Yu, Y., Bright, B.C., Byrne, J., Mita, R., Houtman, R.M., Shaw, J.D., **Fekety, P.A.**, Domke, G., Walters, B., Bell, D.M., Weiskittel, A., Atkins, J.W., Duncanson, L., Hunka, N., Kennedy, R., Babcock, C., Saatchi, S., Raczka, B., Silva, C., Tang, H., and Hurtt, G. (2026). A quantitative evaluation of forest aboveground biomass density map products in Oregon, USA. Environmental Research Letters, Vol. 21 (No. 14), p. 143007. [https://doi.org/10.1088/1748-9326/ae8b04](https://doi.org/10.1088/1748-9326/ae8b04).
+
+Mauro, F., González-Mesquida, J.B., Gomez-Roux, M., Domingo-Ruiz, D., Gómez, C., Caiza-Morales, L., Rodríguez-Puerta, F., Águeda, B., Frank, B., Filippelli, S., Hudak, A.T., Temesgen, H., **Fekety, P.A.**, Manzanera, J.A., and Candel-Pérez, D. (2026). Combining multitemporal remote sensing data and repeated ground observations from the Spanish National Forest Inventory to estimate site index and diameter distribution for uneven-aged management of *Juniperus thurifera L.* forests. Forestry: An International Journal of Forest Research, Vol. 99 (No. 3), p. cpaf080. [https://doi.org/10.1093/forestry/cpaf080](https://doi.org/10.1093/forestry/cpaf080).
+
 Filippelli, S.K., Vogeler, J.C., Mauro, F., Coetsee, C., Fekety, **P.A.**, McHale, M., and Bunn, D. (2026). Tracking savanna vegetation structure in South Africa by extension of GEDI canopy metrics with Landsat, Sentinel-2, and PALSAR. Science of Remote Sensing 13: 100388. [https://doi.org/10.1016/j.srs.2026.100388](https://doi.org/10.1016/j.srs.2026.100388).
 
 ## 2025
